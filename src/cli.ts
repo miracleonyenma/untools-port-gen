@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { generatePortFromName } from "../src/index.js";
+import { generatePortFromName } from "./index.js";
 
 // Get the project name from CLI arguments
 const args = process.argv.slice(2);

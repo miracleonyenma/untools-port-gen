@@ -1,6 +1,6 @@
 {
   "name": "@untools/port-gen",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generate a random but consistent port number from a project name",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
